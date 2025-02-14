@@ -1,0 +1,650 @@
+[
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genre": "Crime & Thriller",
+    "price": 12.99,
+    "isbn": "9781250300515",
+    "image": "/BooksImages/CrimeThriller/ct1.webp",
+    "description": "A woman shoots her husband five times in the face and then never speaks again. A psychotherapist is determined to unravel her mystery."
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genre": "Crime & Thriller",
+    "price": 9.99,
+    "isbn": "9780307588360",
+    "image": "/BooksImages/CrimeThriller/ct2.webp",
+    "description": "On their fifth wedding anniversary, Amy Dunne disappears, and her husband Nick becomes the prime suspect."
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genre": "Crime & Thriller",
+    "price": 14.99,
+    "isbn": "9780307269753",
+    "image": "/BooksImages/CrimeThriller/ct3.webp",
+    "description": "A disgraced journalist and a young female hacker team up to investigate the disappearance of a young woman from a wealthy family."
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "Crime & Thriller",
+    "price": 11.99,
+    "isbn": "9780307277671",
+    "image": "/BooksImages/CrimeThriller/ct4.webp",
+    "description": "Robert Langdon and Sophie Neveu find themselves embroiled in a dangerous game of cat and mouse as they follow clues hidden within Da Vinci's artwork."
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "genre": "Crime & Thriller",
+    "price": 8.99,
+    "isbn": "9781594633669",
+    "image": "/BooksImages/CrimeThriller/ct5.webp",
+    "description": "Rachel, a woman struggling with alcoholism and a recent divorce, becomes obsessed with a seemingly perfect couple she observes from her train commute, only to become entangled in their mysterious disappearance."
+  },
+  {
+    "title": "The Reversal",
+    "author": "Michael Connelly",
+    "genre": "Crime & Thriller",
+    "price": 10.99,
+    "isbn": "9780316113878",
+    "image": "/BooksImages/CrimeThriller/ct6.webp",
+    "description": "Mickey Haller defends his half-brother, a convicted killer, in a retrial light-whited on DNA evidence, pitting him against his own Lincoln Lawyer persona."
+  },
+  {
+    "title": "The Guest List",
+    "author": "Lucy Fokley",
+    "genre": "Crime & Thriller",
+    "price": 13.99,
+    "isbn": "9780062877485",
+    "image": "/BooksImages/CrimeThriller/ct7.webp",
+    "description": "On a remote island off the Irish coast, a wedding celebration turns deadly when someone turns up dead, and everyone is a suspect."
+  },
+  {
+    "title": "Before I Go To Sleep",
+    "author": "S.J. Watson",
+    "genre": "Crime & Thriller",
+    "price": 9.99,
+    "isbn": "9780062060556",
+    "image": "/BooksImages/CrimeThriller/ct8.webp",
+    "description": "Christine wakes up every morning with no memory of her past. As she tries to piece together her life, she uncovers a terrifying secret."
+  },
+  {
+    "title": "Dark Places",
+    "author": "Gillian Flynn",
+    "genre": "Crime & Thriller",
+    "price": 11.99,
+    "isbn": "9780307590981",
+    "image": "/BooksImages/CrimeThriller/ct9.webp",
+    "description": "Libby Day was seven when her family was murdered. Twenty-five years later, she's forced to confront the dark secrets of her past."
+  },
+  {
+    "title": "The Big Sleep",
+    "author": "Raymond Chandler",
+    "genre": "Detective",
+    "price": 9.99,
+    "isbn": "9780345421703",
+    "image": "/BooksImages/Detective/d1.webp",
+    "description": "Philip Marlowe, a hard-boiled private investigator, is hired to handle a blackmail case, which quickly spirals into something much more complex and dangerous."
+  },
+  {
+    "title": "The Maltese Falcon",
+    "author": "Dashiell Hammett",
+    "genre": "Detective",
+    "price": 8.99,
+    "isbn": "9780679722710",
+    "image": "/BooksImages/Detective/d2.webp",
+    "description": "Sam Spade, a private detective in San Francisco, gets entangled in a case involving a valuable statue, a femme fatale, and a host of shady characters."
+  },
+  {
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "genre": "Detective",
+    "price": 7.99,
+    "isbn": "9780062073488",
+    "image": "/BooksImages/Detective/d3.webp",
+    "description": "Ten strangers are invited to a remote island and systematically killed off one by one. A classic whodunit by the queen of crime."
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "genre": "Detective",
+    "price": 6.99,
+    "isbn": "9780141439515",
+    "image": "/BooksImages/Detective/d4.webp",
+    "description": "Sherlock Holmes investigates the legend of a supernatural hound that haunts the Baskerville family."
+  },
+  {
+    "title": "The Girl Who Played with Fire",
+    "author": "Stieg Larsson",
+    "genre": "Detective",
+    "price": 12.99,
+    "isbn": "9780307269980",
+    "image": "/BooksImages/Detective/d5.webp",
+    "description": "Lisbeth Salander and Mikael Blomkvist investigate a double murder with dangerous implications."
+  },
+  {
+    "title": "The No. 1 Ladies' Detective Agency",
+    "author": "Alexander McCall Smith",
+    "genre": "Detective",
+    "price": 9.99,
+    "isbn": "9781400034772",
+    "image": "/BooksImages/Detective/d6.webp",
+    "description": "Precious Ramotswe, Botswana’s first female detective, solves intriguing cases with wisdom and wit."
+  },
+  {
+    "title": "Farewell, My Lovely",
+    "author": "Raymond Chandler",
+    "genre": "Detective",
+    "price": 8.50,
+    "isbn": "9780394758275",
+    "image": "/BooksImages/Detective/d7.webp",
+    "description": "Philip Marlowe stumbles upon a case involving a missing nightclub singer, a dangerous gangster, and a string of murders in Los Angeles."
+  },
+  {
+    "title": "The Woman in White",
+    "author": "Wilkie Collins",
+    "genre": "Detective",
+    "price": 10.25,
+    "isbn": "9780141439614",
+    "image": "/BooksImages/Detective/d8.webp",
+    "description": "A mysterious woman in white warns of a dark conspiracy, leading drawing master Walter Hartright into a complex case of deception and intrigue."
+  },
+  {
+    "title": "The Daughter of Time",
+    "author": "Josephine Tey",
+    "genre": "Detective",
+    "price": 9.50,
+    "isbn": "9780684803869",
+    "image": "/BooksImages/Detective/d9.webp",
+    "description": "Bedridden Inspector Alan Grant investigates the historical case of King Richard III, questioning whether he was truly guilty of murder."
+  },
+  {
+    "title": "A Study in Scarlet",
+    "author": "Arthur Conan Doyle",
+    "genre": "Detective",
+    "price": 7.99,
+    "isbn": "9780486474915",
+    "image": "/BooksImages/Detective/d10.webp",
+    "description": "Sherlock Holmes and Dr. Watson investigate a mysterious murder that leads to a shocking revelation."
+  },
+  {
+    "title": "Tinker Tailor Soldier Spy",
+    "author": "John le Carré",
+    "genre": "Spy Thriller",
+    "price": 13.99,
+    "isbn": "9780143119784",
+    "image": "/BooksImages/SpyThriller/st1.webp",
+    "description": "A classic Cold War espionage novel featuring British intelligence officer George Smiley."
+  },
+  {
+    "title": "The Bourne Identity",
+    "author": "Robert Ludlum",
+    "genre": "Spy Thriller",
+    "price": 10.99,
+    "isbn": "9780553593549",
+    "image": "/BooksImages/SpyThriller/st2.webp",
+    "description": "A thrilling story of a man suffering from amnesia who must discover his true identity while evading assassins."
+  },
+  {
+    "title": "The Spy Who Came in from the Cold",
+    "author": "John le Carré",
+    "genre": "Spy Thriller",
+    "price": 12.50,
+    "isbn": "9780143124757",
+    "image": "/BooksImages/SpyThriller/st3.webp",
+    "description": "A tense and realistic espionage novel about a British agent sent on a dangerous mission."
+  },
+  {
+    "title": "Red Sparrow",
+    "author": "Jason Matthews",
+    "genre": "Spy Thriller",
+    "price": 11.99,
+    "isbn": "9781501140082",
+    "image": "/BooksImages/SpyThriller/st4.webp",
+    "description": "A former ballerina is trained to be a Russian spy and must navigate a world of deception and intrigue."
+  },
+  {
+    "title": "I Am Pilgrim",
+    "author": "Terry Hayes",
+    "genre": "Spy Thriller",
+    "price": 14.99,
+    "isbn": "9781439177730",
+    "image": "/BooksImages/SpyThriller/st5.webp",
+    "description": "A fast-paced espionage thriller following a covert intelligence agent on a high-stakes mission."
+  },
+  {
+    "title": "The Hunt for Red October",
+    "author": "Tom Clancy",
+    "genre": "Spy Thriller",
+    "price": 10.99,
+    "isbn": "9780425240335",
+    "image": "/BooksImages/SpyThriller/st6.webp",
+    "description": "A high-stakes Cold War thriller where a Soviet submarine commander tries to defect to the U.S. while being pursued by both American and Soviet forces."
+  },
+  {
+    "title": "Our Man in Havana",
+    "author": "Graham Greene",
+    "genre": "Spy Thriller",
+    "price": 9.50,
+    "isbn": "9780142438008",
+    "image": "/BooksImages/SpyThriller/st7.webp",
+    "description": "A vacuum cleaner salesman in Cuba is recruited by British Intelligence, leading to a humorous yet dangerous adventure of mistaken identities and false reports."
+  },
+  {
+    "title": "The Day of the Jackal",
+    "author": "Frederick Forsyth",
+    "genre": "Spy Thriller",
+    "price": 11.75,
+    "isbn": "9780451239372",
+    "image": "/BooksImages/SpyThriller/st8.webp",
+    "description": "A professional assassin is hired to kill the French president, leading to an intense manhunt across Europe to stop him before it's too late."
+  },
+  {
+    "title": "The Key to Rebecca",
+    "author": "Ken Follett",
+    "genre": "Spy Thriller",
+    "price": 10.25,
+    "isbn": "9780451207791",
+    "image": "/BooksImages/SpyThriller/st9.webp",
+    "description": "Set during World War II, a German spy operating in Egypt must be stopped by a British officer before he delivers critical intelligence to the Nazis."
+  },
+  {
+    "title": "Agent Running in the Field",
+    "author": "John le Carré",
+    "genre": "Spy Thriller",
+    "price": 13.99,
+    "isbn": "9781984878878",
+    "image": "/BooksImages/SpyThriller/st10.webp",
+    "description": "A veteran British spy is drawn into a dangerous game of international espionage as he uncovers a conspiracy that threatens global stability."
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Classic",
+    "price": 8.99,
+    "isbn": "9780486278070",
+    "image": "/BooksImages/Classic/c1.webp",
+    "description": "A dark tale of vanity and corruption, where a young man’s portrait ages and reveals his sins while he remains unnaturally youthful."
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Classic",
+    "price": 14.99,
+    "isbn": "9781400079988",
+    "image": "/BooksImages/Classic/c2.webp",
+    "description": "A sweeping historical novel that intertwines the lives of aristocrats, soldiers, and peasants during the Napoleonic Wars, exploring themes of fate, love, and war."
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Classic",
+    "price": 8.99,
+    "isbn": "9780451524935",
+    "image": "/BooksImages/Classic/c3.webp",
+    "description": "A dystopian novel set in a totalitarian society where Big Brother watches everything, challenging themes of freedom and truth."
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Classic",
+    "price": 10.99,
+    "isbn": "9780142437247",
+    "image": "/BooksImages/Classic/c4.webp",
+    "description": "A tale of obsession, revenge, and the sea, following Captain Ahab's pursuit of the great white whale."
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "price": 8.50,
+    "isbn": "9780743273565",
+    "image": "/BooksImages/Classic/c5.webp",
+    "description": "A critique of the American Dream, set in the Roaring Twenties, focusing on Jay Gatsby's unrequited love for Daisy Buchanan."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic",
+    "price": 9.99,
+    "isbn": "9780061120084",
+    "image": "/BooksImages/Classic/c6.webp",
+    "description": "A powerful story of racial injustice and moral growth, seen through the eyes of young Scout Finch in the Deep South during the 1930s."
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Classic",
+    "price": 7.99,
+    "isbn": "9780486282114",
+    "image": "/BooksImages/Classic/c7.webp",
+    "description": "A Gothic horror novel about a young scientist, Victor Frankenstein, who creates a sentient creature, leading to tragic consequences and deep philosophical questions."
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Classic",
+    "price": 8.99,
+    "isbn": "9780486411095",
+    "image": "/BooksImages/Classic/c8.webp",
+    "description": "A chilling tale of Count Dracula's attempt to spread his undead curse from Transylvania to England, facing resistance from a determined group of vampire hunters."
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Classic",
+    "price": 11.25,
+    "isbn": "9780486415871",
+    "image": "/BooksImages/Classic/c9.webp",
+    "description": "A psychological thriller about a poor ex-student who commits a crime to test his moral theories, only to be haunted by guilt and psychological turmoil."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Classic",
+    "price": 7.99,
+    "isbn": "9780141439518",
+    "image": "/BooksImages/Classic/c10.webp",
+    "description": "A romantic novel that explores themes of love, class, and social expectations in Regency-era England."
+  },
+  {
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "genre": "Fiction",
+    "price": 12.99,
+    "isbn": "9780307744403",
+    "image": "/BooksImages/Fiction/f1.webp",
+    "description": "A mysterious and magical competition between two young illusionists unfolds within the confines of a black-and-white striped circus that appears only at night."
+  },
+  {
+    "title": "The Ocean at the End of the Lane",
+    "author": "Neil Gaiman",
+    "genre": "Fiction",
+    "price": 10.99,
+    "isbn": "9780062255655",
+    "image": "/BooksImages/Fiction/f2.webp",
+    "description": "A man returns to his childhood home for a funeral and finds himself drawn back to the magical and dangerous world he discovered as a boy."
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "price": 8.99,
+    "isbn": "9780062315007",
+    "image": "/BooksImages/Fiction/f3.webp",
+    "description": "An Andalusian shepherd boy named Santiago travels from Spain to Egypt in search of a treasure buried near the Pyramids."
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fiction",
+    "price": 20.99,
+    "isbn": "9780618260262",
+    "image": "/BooksImages/Fiction/f4.webp",
+    "description": "An epic high fantasy trilogy following the journey of a hobbit named Frodo Baggins as he sets out to destroy the One Ring."
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "genre": "Fiction",
+    "price": 8.99,
+    "isbn": "9780345391803",
+    "image": "/BooksImages/Fiction/f5.webp",
+    "description": "A comedic science fiction series following the misadventures of Arthur Dent as he travels through space after Earth is destroyed."
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "Fiction",
+    "price": 6.99,
+    "isbn": "9780156012195",
+    "image": "/BooksImages/Fiction/f6.webp",
+    "description": "A poetic and philosophical tale about a pilot who meets a young prince from another planet."
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "genre": "Fiction",
+    "price": 14.99,
+    "isbn": "9780060883287",
+    "image": "/BooksImages/Fiction/f7.webp",
+    "description": "A multi-generational saga of the Buendía family and their mythical town of Macondo."
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "Fiction",
+    "price": 9.75,
+    "isbn": "9780375842207",
+    "image": "/BooksImages/Fiction/f8.webp",
+    "description": "Set in Nazi Germany, this novel tells the story of Liesel, a girl who finds solace in books and shares them with others during a time of great turmoil."
+  },
+  {
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "genre": "Fiction",
+    "price": 11.50,
+    "isbn": "9780156027328",
+    "image": "/BooksImages/Fiction/f9.webp",
+    "description": "A young boy named Pi survives a shipwreck and is stranded on a lifeboat with a Bengal tiger, leading to a story of survival, faith, and the power of storytelling."
+  },
+  {
+    "title": "Big Nate: From The Top",
+    "author": "Lincoln Peirce",
+    "genre": "Cartoon",
+    "price": 9.99,
+    "isbn": "9780062283597",
+    "image": "/BooksImages/Cartoon/ca1.webp",
+    "description": "Nate Wright is eleven years old, four-and-a-half feet tall, and the all-time record holder for school detentions in school history. He's a self-described genius and sixth-grade Renaissance man."
+  },
+  {
+    "title": "Dog Man: Unleashed",
+    "author": "Dav Pilkey",
+    "genre": "Cartoon",
+    "price": 24.99,
+    "isbn": "9781338603423",
+    "image": "/BooksImages/Cartoon/ca2.webp",
+    "description": "A hilarious graphic novel series following Dog Man, a heroic half-dog, half-human cop who fights crime while struggling with his canine instincts."
+  },
+  {
+    "title": "Garfield",
+    "author": "Jim Davis",
+    "genre": "Cartoon",
+    "price": 6.50,
+    "isbn": "9780345320133",
+    "image": "/BooksImages/Cartoon/ca3.webp",
+    "description": "A fun-filled collection of comics featuring Garfield, the lazy and sarcastic cat."
+  },
+  {
+    "title": "Archie Comics: 80 Years of Classic Comics",
+    "author": "Various Authors",
+    "genre": "Cartoon",
+    "price": 15.99,
+    "isbn": "9781645769149",
+    "image": "/BooksImages/Cartoon/ca4.webp",
+    "description": "A nostalgic collection of classic Archie Comics, following the fun and drama of Archie, Betty, Veronica, Jughead, and the rest of Riverdale."
+  },
+  {
+    "title": "Calvin and Hobbes",
+    "author": "Bill Watterson",
+    "genre": "Cartoon",
+    "price": 14.99,
+    "isbn": "9780836220889",
+    "image": "/BooksImages/Cartoon/ca5.webp",
+    "description": "A beloved comic strip following the adventures of Calvin, a mischievous six-year-old boy, and his stuffed tiger, Hobbes, who comes to life in his imagination."
+  },
+  {
+    "title": "Diary of a Wimpy Kid",
+    "author": "Jeff Kinney",
+    "genre": "Cartoon",
+    "price": 9.99,
+    "isbn": "9780810993136",
+    "image": "/BooksImages/Cartoon/ca6.webp",
+    "description": "The hilarious journey of Greg Heffley, a middle schooler, navigating life with his family and friends."
+  },
+  {
+    "title": "Batman: The Killing Joke",
+    "author": "Alan Moore",
+    "genre": "Cartoon",
+    "price": 14.99,
+    "isbn": "9781401216672",
+    "image": "/BooksImages/Cartoon/ca7.webp",
+    "description": "A dark and thought-provoking graphic novel exploring the origins of the Joker and his relationship with Batman."
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Sci-Fi & Fantasy",
+    "price": 14.99,
+    "isbn": "9780441013593",
+    "image": "/BooksImages/SciFan/sf1.webp",
+    "description": "On the desert planet Arrakis, the only source of the valuable spice melange, a young man named Paul Atreides is thrust into a complex world of politics, religion, and ecology."
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "genre": "Sci-Fi & Fantasy",
+    "price": 9.99,
+    "isbn": "9780345391803",
+    "image": "/BooksImages/SciFan/sf2.webp",
+    "description": "Seconds before Earth is demolished to make way for a hyperspace bypass, Arthur Dent is rescued by his friend Ford Prefect, who has been posing as a human for the last fifteen years."
+  },
+  {
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "genre": "Sci-Fi & Fantasy",
+    "price": 16.99,
+    "isbn": "9780007444641",
+    "image": "/BooksImages/SciFan/sf3.webp",
+    "description": "In the realm of Westeros, nine noble families fight for control over the Seven Kingdoms, and an ancient threat awakens in the icy North."
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Sci-Fi & Fantasy",
+    "price": 10.99,
+    "isbn": "9780590353427",
+    "image": "/BooksImages/SciFan/sf4.webp",
+    "description": "On his eleventh birthday, Harry Potter discovers that he is a wizard and is invited to attend Hogwarts School of Witchcraft and Wizardry."
+  },
+  {
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "genre": "Sci-Fi & Fantasy",
+    "price": 13.99,
+    "isbn": "9780756404079",
+    "image": "/BooksImages/SciFan/sf5.webp",
+    "description": "Told in his own words, Kvothe recounts the tale of his life as a child prodigy, a wandering performer, a university student, and a fugitive."
+  },
+  {
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "genre": "Sci-Fi & Fantasy",
+    "price": 17.99,
+    "isbn": "9780765326355",
+    "image": "/BooksImages/SciFan/sf6.webp",
+    "description": "In a world where storms of incredible power lay waste to the landscape, a broken and disillusioned soldier, a young slave girl, and a brilliant but disgraced scholar are bound together by fate."
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "genre": "Sci-Fi & Fantasy",
+    "price": 11.99,
+    "isbn": "9780441007318",
+    "image": "/BooksImages/SciFan/sf7.webp",
+    "description": "A human emissary is sent to the planet Winter, a world where people are neither male nor female, but can shift between genders."
+  },
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "genre": "Sci-Fi & Fantasy",
+    "price": 8.99,
+    "isbn": "9780553293357",
+    "image": "/BooksImages/SciFan/sf8.webp",
+    "description": "A psychohistorian predicts the imminent collapse of the Galactic Empire and establishes a Foundation to preserve human knowledge and rebuild civilization."
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genre": "Sci-Fi & Fantasy",
+    "price": 15.99,
+    "isbn": "9780804139021",
+    "image": "/BooksImages/SciFan/sf9.webp",
+    "description": "An astronaut is stranded on Mars and must use his ingenuity and scientific knowledge to survive until a rescue mission can reach him."
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "Best Seller",
+    "price": 15.99,
+    "isbn": "9780735219090",
+    "image": "/BooksImages/BestSeller/bs1.webp",
+    "description": "A gripping novel about a young girl growing up in isolation, blending mystery, romance, and nature writing."
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "genre": "Best Seller",
+    "price": 14.99,
+    "isbn": "9780525559474",
+    "image": "/BooksImages/BestSeller/bs2.webp",
+    "description": "A thought-provoking novel about a woman who explores parallel lives in a magical library after attempting suicide."
+  },
+  {
+    "title": "The Vanishing Half",
+    "author": "Brit Bennett",
+    "genre": "Best Seller",
+    "price": 16.99,
+    "isbn": "9780525536291",
+    "image": "/BooksImages/BestSeller/bs3.webp",
+    "description": "A compelling story of twin sisters who live in two very different worlds, examining race and identity."
+  },
+  {
+    "title": "The Four Winds",
+    "author": "Kristin Hannah",
+    "genre": "Best Seller",
+    "price": 18.99,
+    "isbn": "9781250178602",
+    "image": "/BooksImages/BestSeller/bs4.webp",
+    "description": "A powerful historical fiction novel set during the Great Depression, following a woman’s fight for survival."
+  },
+  {
+    "title": "The House of Flame and Shadow",
+    "author": "Sarah J. Maas",
+    "genre": "Best Seller",
+    "price": 24.99,
+    "isbn": "9781635574104",
+    "image": "/BooksImages/BestSeller/bs5.webp",
+    "description": "The third book in the Crescent City series, mixing high fantasy with thrilling action."
+  },
+  {
+    "title": "Iron Flame",
+    "author": "Rebecca Yarros",
+    "genre": "Best Seller",
+    "price": 22.99,
+    "isbn": "9781649374189",
+    "image": "/BooksImages/BestSeller/bs6.webp",
+    "description": "The sequel to Fourth Wing, continuing the saga of dragons, romance, and war."
+  },
+  {
+    "title": "None of This is True",
+    "author": "Lisa Jewell",
+    "genre": "Best Seller",
+    "price": 16.50,
+    "isbn": "9781982137329",
+    "image": "/BooksImages/BestSeller/bs7.webp",
+    "description": "A psychological thriller where a podcast interview turns into a deadly game of manipulation."
+  },
+  {
+    "title": "Onyx Storm",
+    "author": "Rebecca Yarros",
+    "genre": "Best Seller",
+    "price": 19.99,
+    "isbn": "9781234567890",
+    "image": "/BooksImages/BestSeller/bs8.webp",
+    "description": "The third installment in The Empyrean series, blending romance and fantasy in a dragon-filled world."
+  }
+]
