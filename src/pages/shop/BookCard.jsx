@@ -95,7 +95,7 @@ const BookCard = ({ books, filterBooks }) => {
       {books.map((book, index) => (
         <div
           key={index}
-          className={`w-44 rounded-md shadow hover:shadow-lg font-Quicksand ${filterBooks ? `` : `flex flex-col last:hidden sm:last:block sm:even:hidden md:even:block md:last:hidden lg:last:block`
+          className={`w-44 rounded-md shadow hover:shadow-lg font-Quicksand ${filterBooks ? `` : `last:hidden sm:last:block sm:even:hidden md:even:block md:last:hidden lg:last:block`
             }`}
         >
           <div className="bg-bg-image flex justify-center items-center p-4">
