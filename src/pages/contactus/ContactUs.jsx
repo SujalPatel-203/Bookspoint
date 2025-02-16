@@ -4,7 +4,7 @@ import contactusimage from '../../assets/ContactUsImage.webp'
 const ContactUs = () => {
   return (
     <>
-      <section className='max-w-6xl mx-auto py-8 flex gap-x-6 justify-between max-lg:flex-col max-lg:p-6'>
+      <section className='max-w-6xl mx-auto py-8 flex flex-col gap-x-6 justify-between md:flex-row md:p-6'>
         <div className='p-4 flex flex-col gap-y-3 flex-1'>
           <div className='flex justify-center'>
             <img src={contactusimage} alt="contactusimage" className='w-auto h-auto' loading='lazy' />
@@ -12,7 +12,7 @@ const ContactUs = () => {
           <div>
             <h1 className='mb-2 font-Fraunces text-2xl'>Get In Touch</h1>
             <h3 className='mb-2 font-semibold font-Quicksand'>We're here to help!</h3>
-            <p className='text-justify font-Quicksand'>If you have any questions, feedback, or just want to say hello, feel free to reach out to us. Our team is here to assist you and ensure you have the best experience possible. You can contact us via email, phone, or by filling out the form below. We look forward to connecting with you!</p>
+            <p className='text-justify font-Quicksand'>If you have any questio  ns, feedback, or just want to say hello, feel free to reach out to us. Our team is here to assist you and ensure you have the best experience possible. You can contact us via email, phone, or by filling out the form below. We look forward to connecting with you!</p>
           </div>
         </div>
 
