@@ -89,13 +89,13 @@ const BookCard = ({ books, filterBooks }) => {
   };
 
   const isInWishlist = (book) => wishlist.some(item => item.isbn === book.isbn);
-
+  // min-sm:last:flex min-sm:even:hidden md:even:flex md:last:hidden lg:last:flex
   return (
     <>
       {books.map((book, index) => (
         <div
           key={index}
-          className={`w-44 rounded-md shadow hover:shadow-lg font-Quicksand ${filterBooks ? `` : `flex flex-col last:hidden min-sm:last:flex min-sm:even:hidden md:even:flex md:last:hidden lg:last:flex`
+          className={`w-44 rounded-md shadow hover:shadow-lg font-Quicksand ${filterBooks ? `` : `flex flex-col last:hidden sm:last:block sm:even:hidden md:even:block md:last:hidden lg:last:block`
             }`}
         >
           <div className="bg-bg-image flex justify-center items-center p-4">
