@@ -24,7 +24,7 @@ const DisplayBooks = () => {
             <h1 className='text-xl'>{category}</h1>
             <Link to={`/categories/${category}`}>See All</Link>
           </div>
-          <div className="grid grid-cols-1 gap-y-4 justify-items-center xs:grid-rows-2 xs:grid-cols-2 sm:grid-cols-3 sm:grid-rows-1 md:grid-cols-4 lg:grid-cols-5">
+          <div className="grid grid-cols-2 grid-rows-2 gap-y-4 justify-items-center sm:grid-cols-3 sm:grid-rows-1 md:grid-cols-4 lg:grid-cols-5">
             <BookCard books={booksByCategory[category] || []} />
           </div>
         </div>
