@@ -94,7 +94,7 @@ const BookCard = ({ books, filterBooks }) => {
       {books.map((book, index) => (
         <div
           key={index}
-          className={`w-44 rounded-md shadow hover:shadow-lg font-Quicksand ${filterBooks ? `` : `card-responsive`} max-xs:w-36`}
+          className={`w-[140px] rounded-md shadow hover:shadow-lg font-Quicksand ${filterBooks ? `` : `card-responsive`} xs:w-44`}
         >
           <div className="bg-bg-image flex justify-center items-center p-4">
             <Link to={`/book/${book.isbn}`}>
@@ -111,7 +111,7 @@ const BookCard = ({ books, filterBooks }) => {
             <p className="font-bold text-sm">Price: ${book.price}</p>
             <div className="flex gap-x-2">
               <button
-                className="bg-primary text-white font-semibold border-1 cursor-pointer px-1 py-1 rounded-md flex-1 text-sm max-xs:hidden"
+                className="bg-primary text-white font-semibold border-1 cursor-pointer px-1 py-1 rounded-md flex-1 text-sm hidden xs:block"
                 onClick={(e) => {
                   e.stopPropagation();
                   handleAddToCart(book);

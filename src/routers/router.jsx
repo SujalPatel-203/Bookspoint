@@ -5,7 +5,6 @@ import Home from '../pages/home/Home';
 import CategoryPage from '../pages/home/CategoryPage';
 import Search from '../pages/search/Search';
 import Wishlist from '../pages/shop/Wishlist';
-import Cart from '../pages/shop/Cart';
 import ContactUs from '../pages/contactus/ContactUs';
 import AboutUs from '../pages/aboutus/AboutUs';
 import SingleBook from '../pages/shop/SingleBook/SingleBook';
@@ -21,7 +20,6 @@ const router = createBrowserRouter([
       { path: "/categories/:categoryName", element: <CategoryPage /> },
       { path: "/search", element: <Search /> },
       { path: "/wishlist", element: <Wishlist />},
-      { path: "/cart", element: <Cart />},
       { path: "/contactus", element: <ContactUs />},
       { path: "/aboutus", element: <AboutUs />},
       { path: "/book/:isbn", element: <SingleBook />},
